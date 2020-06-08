@@ -23,4 +23,4 @@ you can use [xPath Finder](https://chrome.google.com/webstore/detail/xpath-finde
 
 ## Result
 
-![alt-text](https://raw.githubusercontent.com/hmnedi/typing-test-cheating/master/44geyd.gif)
+![44geyd](https://user-images.githubusercontent.com/66573756/84088172-33dc8280-aa01-11ea-9e48-9e25b6a4d3a5.gif)
